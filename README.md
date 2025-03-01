@@ -1,16 +1,78 @@
-# afritrade_flutter
+# AFRITRADE 🛒
 
-A new Flutter project.
+AFRITRADE is a modern eCommerce mobile application built with Flutter, allowing users to browse products, add to cart, and complete purchases seamlessly.
 
-## Getting Started
+## 🔥 Tech Stack
+- Flutter 3.x
+- GoRouter (Navigation)
+- Riverpod (State Management)
+- Firebase Auth (Authentication)
+- Firestore (Database)
+- Flutter Secure Storage (Token Storage)
+- Cached Network Image
+- Google Fonts
+- Dio (API Requests)
+- Lottie Animations
+- Shimmer Loading Effects
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Onboarding Screens
+- User Authentication (Signup & Login)
+- Token Persistence
+- Product Listing
+- Add to Cart
+- Wishlist
+- Order History
+- Dark Mode
+- Smooth Navigation with GoRouter
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
+Coming soon...
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Folder Structure
+```bash
+lib/
+├─ models/        # Data Models
+├─ services/      # Firebase + API Services
+├─ providers/     # Riverpod Providers
+├─ screens/       # All Screens
+│   ├─ auth/      # Signup, Login
+│   ├─ home/      # Home + Product Screens
+│   └─ cart/      # Cart Screens
+├─ router/        # GoRouter Setup
+└─ main.dart      # App Entry Point
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run the Project 🚀
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/afritrade.git
+```
+2. Navigate to the project folder:
+```bash
+cd afritrade
+```
+3. Install dependencies:
+```bash
+flutter pub get
+```
+4. Run the project:
+```bash
+flutter run
+```
+
+## Upcoming Features
+- Payment Gateway Integration
+- Profile Management
+- Notifications
+
+---
+
+### Author
+**KojoCode**
+
+Let's Connect: [Portofolio](https://kojocode.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/kojo-samuel-maglodji-2a1081319/)
+
+---
+AFRITRADE 🚨 — The Marketplace of the Future
+
