@@ -46,7 +46,7 @@ lib/
 ## How to Run the Project 🚀
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/afritrade.git
+git clone https://github.com/kodjozecodeur/Afritrade_flutter.git
 ```
 2. Navigate to the project folder:
 ```bash
